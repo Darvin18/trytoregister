@@ -1,0 +1,68 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.form{
+    width: 300px;
+    padding: 32px;
+    border-radius: 10px;
+    box-shadow: 0 4px 16px #ccc;
+}
+
+.title_group{text-align: center; margin-bottom: 20px;}
+.title_group h1{margin: 10px;}
+.form_group{margin-bottom: 10px;}
+
+.form_group input{
+    border: none;
+    border-bottom: 1px solid #d9d9d9;
+    outline: none;
+}
+
+.button_group{margin-top: 30px; text-align: center;}
+
+.form .form_btn{
+    color: #ffffffdc;
+    cursor: pointer;
+    border: none;
+    border-radius: 3px;
+    width: 100px;
+    height: 35px;
+    background-color: #ff0033;
+    box-shadow: 0 4px 16px #ff00336b;
+    transition: 0.4s ease-in-out;
+}
+
+.form .form_btn:hover{
+    border-radius: 8px;
+    box-shadow: 0 5px 16px #ff0033b8;
+}
+
+
+/* unvisiable ellements */
+.dangerous_btn{
+    margin-top: 10px;
+    color: #ffffffdc;
+    cursor: pointer;
+    border: none;
+    border-radius: 3px;
+    width: 80px;
+    height: 30px;
+    background-color: #000000;
+}
+
+.about_you_info{margin-top: 10px; color: #ff0033;}
+.secret_code_input{margin-top: 10px;}
+
+.error{
+    margin-top: 15px;
+    text-align: center;
+    color: #ff0033;
+}
+.switchDevice_label{color: #fff;}
