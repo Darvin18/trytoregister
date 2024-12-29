@@ -8,7 +8,7 @@
 `Clippy` - clippy is an assistant in the form of an animated paper clip. But what happens if his artificial intelligence goes crazy? It looks like the clippy is already on my website. He wants me to register.
 
 # How to use
-The link to the website - [https://darvin18.github.io/trytoregister/](https://darvin18.github.io/trytoregister/)
+The link to the website - [http://n3nsy.ru/trytoregister/](http://n3nsy.ru/trytoregister/)
 
 You just need to go to this website and try to register.
 
